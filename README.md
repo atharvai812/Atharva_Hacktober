@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Hacktober logo.png" alt="Hacktoberfest Logo" width="150">
+  <img src="[Hacktober logo.png](https://github.com/atharvai812/Atharva_Hacktober/blob/330fba06ff1897f5b7ce0e028911229812db4a0d/Hacktober%20logo.png)" alt="Hacktoberfest Logo" width="150">
 </div>
 
 # Hacktoberfest 2023

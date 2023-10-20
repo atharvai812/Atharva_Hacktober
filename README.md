@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Hacktober logo.png](https://github.com/atharvai812/Atharva_Hacktober/blob/330fba06ff1897f5b7ce0e028911229812db4a0d/Hacktober%20logo.png)" alt="Hacktoberfest Logo" width="150">
+  <img src="Hacktober logo.png" alt="Hacktoberfest Logo" width="150">
 </div>
 
 # Hacktoberfest 2023
@@ -9,6 +9,10 @@ I'm participating in Hacktoberfest 2023.
 
 🚀 Hacktoberfest is a month-long celebration of open-source software. It encourages people from all skill levels to contribute to open-source projects and learn by doing. By participating in Hacktoberfest, you can make a positive impact on the open-source community and earn cool swag.
 
+## My GitHub Profile
+
+- **Name:** Atharva Inamdar
+- **GitHub ID:** [atharvai812](https://github.com/atharvai812)
 
 ## How to Contribute
 
@@ -21,19 +25,8 @@ I'm participating in Hacktoberfest 2023.
 7. Create a Pull Request (PR) to the original repository.
 8. Get your PR reviewed and, upon approval, your contribution counts towards Hacktoberfest.
 
-
-
-## My GitHub Profile
-
-- **Name:** Atharva Inamdar
-- **GitHub ID:** [atharvai812](https://github.com/atharvai812)
-
 ## Let's Contribute!
 
 Join me in making the open-source community better by participating in Hacktoberfest 2023.
 
 Happy Hacking! 🎉
-
-<p align="center">
-  <img src="Hacktober logo.png" alt="Hacktoberfest GIF" width="500">
-</p>

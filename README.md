@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="hacktober_logo.png" alt="Hacktoberfest Logo" width="150">
-</div>
+
 
 # Hacktoberfest 2023
 
